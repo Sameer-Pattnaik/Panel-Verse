@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "title": "The Boys",
+    "price": "Free",
+    "category": "Action/Comedy",
+    "description": "The comic series, created by Garth Ennis and Darick Robertson, is a gritty and satirical take on the superhero genre. Set in a world where superheroes are not the noble figures they appear to be, the series follows a CIA-backed team known as The Boys, who are tasked with monitoring and, if necessary, taking down corrupt and morally bankrupt superheroes.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/The-Boys_Volume_One.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Marvel:The Origin",
+    "price": "Free",
+    "category": "Action",
+    "description":"Marvel: The Origin is a comic book series that retells the origins of some of Marvel Comics' most iconic characters. The series aims to provide a fresh and modern take on the classic beginnings of these superheroes, making them accessible to new readers while honoring the original stories that long-time fans know and love.",
+    "image": "https://m.media-amazon.com/images/I/61KFLylOgPL._SY580_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Chainsaw Man",
+    "price": "Free",
+    "category": "Action/Horror",
+    "description":"Chainsaw Man is a Japanese manga series written and illustrated by Tatsuki Fujimoto. It gained significant popularity for its unique blend of horror, dark humor, and intense action. The story is known for its unpredictable plot, complex characters, and a gritty, fast-paced narrative that sets it apart from typical shonen manga.",
+    "image": "https://i.redd.it/o1wuw1urnns41.jpg"
+  },
+  {
+    "id": 4,
+    "title": "DC:Varient Covers",
+    "price": "Free",
+    "category": "Thriller",
+    "description":"DC's Variant Covers refers to special editions of comic books that feature alternative artwork on the covers, different from the standard edition. These variant covers are often created by well-known artists and are sought after by collectors for their unique and often striking designs.",
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781608878321/dc-comics-variant-covers-9781608878321_hr.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Batman:The Killing Joke",
+    "price": "Rs.20/-",
+    "category": "Crime/Drama",
+    "description":"Batman: The Killing Joke is a highly influential and controversial graphic novel written by Alan Moore and illustrated by Brian Bolland. Published by DC Comics in 1988, it is widely regarded as one of the most iconic and disturbing Batman stories ever told. The comic explores the complex and twisted relationship between Batman and his arch-nemesis, the Joker, offering a possible origin story for the Clown Prince of Crime.",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/25/15/asset/86456cf1bf79/sub-buzz-2096-1648221053-20.jpg?crop=638:948;639,66"
+  },
+  {
+    "id": 6,
+    "title": "The Ten Greatest Fools",
+    "price": "Free",
+    "category": "Mystery",
+    "description":"The Ten Greatest Fools is a comic series that explores themes of absurdity, satire, and the human condition through the lens of various characters who embody different types of foolishness. Each issue or story arc typically focuses on a different fool, presenting a narrative that highlights their particular brand of folly, often with a humorous or ironic twist",
+    "image": "https://4.bp.blogspot.com/-vYXJAiKZntY/WwWP8Wl4RdI/AAAAAAAAKRA/cPNhq-fov14e5Bbmhpn3AdWAgneiQPp3gCLcBGAs/s1600/BirbalFools01.JPG"
+  },
+  {
+    "id": 7,
+    "title": "Chacha Chaudhri",
+    "price": "Free",
+    "category": "Drama",
+    "description":"Chacha Chaudhary is a popular Indian comic book series created by cartoonist Pran Kumar Sharma. First published in 1971, the series features the adventures of the titular character, Chacha Chaudhary, a wise and quick-witted elderly man who uses his sharp intellect to solve problems and outsmart villains",
+    "image": "https://i.pinimg.com/736x/fd/4d/5e/fd4d5e36effad9c087f3a105a437889c.jpg"
+  },
+  {
+    "id": 8,
+    "title": "SpellBound",
+    "price": "Rs.50/-",
+    "category": "Horror",
+    "description":"Spellbound is a comic series originally published by Marvel Comics during the 1950s, with a revival in the 1980s. The series falls into the fantasy and horror genres, often featuring supernatural themes, magic, and mysterious occurrences. Over the years, Spellbound has taken on different forms, but it generally focuses on stories of enchantment, otherworldly forces, and the unknown.",
+    "image": "https://www.sellmycomicbooks.com/images/spellbound-comic-14.png"
+  },
+  {
+    "id": 9,
+    "title": "The World of Fantasy",
+    "price": "Rs.35/-",
+    "category": "Fantasy/Sci-Fi",
+    "description":"The World of Fantasy is a comic book series published by Marvel Comics, primarily in the 1950s. This anthology series featured a diverse array of fantasy and science fiction stories, each with its own unique setting and characters.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/WorldOfFantasy17.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Hajime No Ippo:The fighting",
+    "price": "Rs.10/-",
+    "category": "Action",
+    "description":"Hajime no Ippo is a popular Japanese manga series written and illustrated by George Morikawa. First serialized in 1989, it is a long-running sports manga that focuses on boxing, combining intense sports action with deep character development.",
+    "image": "https://i.pinimg.com/originals/f8/fd/3d/f8fd3d4495ddf2942db3d713be89a3dd.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Great Teacher Onizuka",
+    "price": "Rs.40/-",
+    "category": "Action/Comedy/Drama",
+    "description":"Great Teacher Onizuka (GTO) is a popular Japanese manga series written and illustrated by Tooru Fujisawa. First serialized in 1997, the series is a unique blend of comedy, drama, and social commentary, focusing on the unconventional methods of a former delinquent turned high school teacher.",
+    "image": "https://m.media-amazon.com/images/I/51mTu791LtL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Dragon Ball Z:Vol 26",
+    "price": "Rs.30/-",
+    "category": "Action/Comedy/Drama",
+    "description":"Dragon Ball Z is one of the most iconic and influential manga series of all time, known for its high-energy battles, memorable characters, and epic story arcs.",
+    "image": "https://thecomicbookstore.in/storage/2024/08/TCBS7228.jpg"
+  },
+  {
+    "id": 13,
+    "title": "One Punch Man:Vol 31",
+    "price": "Rs.25/-",
+    "category": "Action/Comedy/Thrill",
+    "description":"One Punch Man is a Japanese manga series created by the artist ONE and illustrated by Yusuke Murata. The manga began as a webcomic in 2009 before being adapted into a digital manga in 2012. One Punch Man is a satirical take on the superhero genre, blending action, comedy, and social commentary.",
+    "image": "https://m.media-amazon.com/images/I/81VAgJoB3BL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Riche Rich",
+    "price": "Rs.10/-",
+    "category": "Sci/Fi",
+    "description":"Richie Rich is an American comic book series created by Alfred Harvey and Warren Kremer. First published by Harvey Comics in 1953, it centers around the adventures of Richie Rich, known as the poor little rich boy, and is one of the most famous and enduring characters in American comic history.",
+    "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/775753.jpg"
+  },
+  {
+    "id": 15,
+    "title": "The Incal",
+    "price": "Rs.60/-",
+    "category": "Sci/Fi",
+    "description":"The Incal is a surreal, mind-bending sci-fi comic set in a dystopian future. It follows the lowly private detective John Difool as he stumbles upon a powerful artifact called the Incal, which thrusts him into an epic adventure involving cosmic forces and the fate of the universe.",
+    "image": "https://www.humanoids.com/assets/CatalogueArticle/358/The-Incal-4_zoomed.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Transmeteropolitian",
+    "price": "Rs.65/-",
+    "category": "Sci/Fi",
+    "description":"Set in a dystopian future, Transmetropolitan follows the gonzo journalist Spider Jerusalem as he navigates a corrupt and decaying society, exposing political and societal flaws through his scathing writing.",
+    "image": "https://miro.medium.com/v2/resize:fit:420/1*NcwI_LyMjUw4x_CVoRqmNQ.jpeg"
+  },
+  {
+    "id": 17,
+    "title": "Descender",
+    "price":"Free",
+    "category": "Sci/Fi",
+    "description":"Descender is a space-based sci-fi comic that tells the story of a young android named TIM-21 who becomes the key to a galaxy-spanning conflict. The series explores themes of artificial intelligence, identity, and survival",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBZtojpI37WSllHfyuAXrKVvqaf7qGaHZig&s"
+  },
+  {
+    "id": 18,
+    "title": "Paper Girls",
+    "price": "Free",
+    "category": "Sci/Fi",
+    "description":"Paper Girls follows four 12-year-old newspaper delivery girls who, while out on their route the morning after Halloween in 1988, stumble upon a mysterious force from the future, leading to a time-traveling adventure filled with aliens, robots, and otherworldly beings.",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657870586i/58155174.jpg"
+  },
+  {
+    "id": 19,
+    "title": "The Manhatten Project",
+    "price": "Rs.50/-",
+    "category": "Sci/Fi",
+    "description":"This comic reimagines the real-life Manhattan Project, but with a twist: the scientists involved are actually working on even more bizarre and dangerous secret projects, including alternate dimensions, AI, and alien contact.",
+    "image": "https://m.media-amazon.com/images/I/91Gb0nnku1L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Y:The Last Man",
+    "price": "Rs.60/-",
+    "category": "Sci/Fi",
+    "description":"Y: The Last Man is set in a world where a mysterious plague wipes out all male mammals except for one man, Yorick Brown, and his pet monkey. The series follows Yorick as he navigates a radically changed world, trying to figure out what caused the plague.",
+    "image": "https://m.media-amazon.com/images/I/71lBTGxPOOL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 21,
+    "title": "The Forever War",
+    "price": "Free",
+    "category": "Sci/Fi",
+    "description":"An adaptation of Joe Haldeman’s classic sci-fi novel, The Forever War follows a soldier in a futuristic war that spans centuries due to time dilation, exploring the psychological and emotional toll of warfare and the alienation of returning to a vastly changed society.",
+    "image": "https://m.media-amazon.com/images/I/913CmbSRq+L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Black Magick",
+    "price": "Rs.55/-",
+    "category": "Sci/Fi",
+    "description":"Black Science follows a group of scientists who discover a way to travel between alternate dimensions, leading to a chaotic adventure through strange and dangerous worlds. The series explores the consequences of scientific hubris and the impact on the characters' personal lives.",
+    "image": "https://imagecomics.com/files/releases/_1200x630_fit_center-center_82_none/BlackMagick_01-1.png?mtime=1614294667"
+  }
+
+
+
+]
